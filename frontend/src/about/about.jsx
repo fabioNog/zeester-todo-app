@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default props => (
- 
+
     <div>
         <PageHeader name='Sobre' small='Nós'></PageHeader>
         <h2>Nossa História</h2>
